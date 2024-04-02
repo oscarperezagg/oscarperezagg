@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="image_url_here" alt="image description" width="100" height="100">
+<img src="banner.png" alt="My banner" width="100%">
 
 ### Proyectos de universidad
 
