@@ -3,14 +3,15 @@
 
 ----
 
-# Hi there 👋
+# Hi there👋
 
 ### Proyectos de personales
 
+... To be updated
+
 ### Cursos
-<ul>
-    <li><a href="https://github.com/oscarperezagg/Gestion-de-proyectos-Software-con-Git-y-GitHub">Gestion-de-proyectos-Software-con-Git-y-GitHub</a></li>
-</ul>
+
+... To be updated
 
 ### Proyectos de universidad
 
