@@ -5,15 +5,15 @@
 
 # Hi there👋
 
-### Proyectos de personales
+### Projects
 
 ... To be updated
 
-### Cursos
+### Courses
 
 ... To be updated
 
-### Proyectos de universidad
+### University projects
 
 
 <ul>
