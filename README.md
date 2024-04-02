@@ -1,6 +1,6 @@
 ---
 <img src="banner_2.png" alt="My banner" width="100%">
----
+----
 
 # Hi there 👋
 ### Proyectos de universidad
