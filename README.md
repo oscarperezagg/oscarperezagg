@@ -1,4 +1,5 @@
 # Hi there 👋
+<img src="image_url_here" alt="image description" width="100" height="100">
 
 ### Proyectos de universidad
 
